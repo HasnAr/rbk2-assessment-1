@@ -78,7 +78,7 @@ Each assessment contains folders that correspond to the prompts listed below. Co
 * [2] Implement collision resolution for the working hash table in `hashTable.js`
 
 ### Data Structures
-* [ ] Describe the difference between a stack and a queue and give examples of when you might use them.
+* [ 1] Describe the difference between a stack and a queue and give examples of when you might use them.
 
 ### Stack
 * [ 1] Implement a stack class.
