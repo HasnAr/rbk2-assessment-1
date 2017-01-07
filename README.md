@@ -75,7 +75,7 @@ Solutions are submitted via [Pull Request](https://help.github.com/articles/usin
 Each assessment contains folders that correspond to the prompts listed below. Complete the instructions in the file, `README.md` within each folder (reproduced below).
 
 ### Hash Table Collision Resolution
-* [ ] Implement collision resolution for the working hash table in `hashTable.js`
+* [1] Implement collision resolution for the working hash table in `hashTable.js`
 
 ### Data Structures
 * [ ] Describe the difference between a stack and a queue and give examples of when you might use them.

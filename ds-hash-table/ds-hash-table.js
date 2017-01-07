@@ -6,13 +6,15 @@ var makeHashTable = function() {
     _storage: [],
     retrieve: function(key) {
       //your code is here
-      var index = hashFn(ke, max);
+      var index = hashFn(key, max);
       var tempRes;
+      
+  console.log(container);
       if(container[index])
         _.each(container[index], function(elem){
-          if(elem[k])
-            tempRes = elem[k];
-        }
+          if(elem[key])
+            tempRes = elem[key];
+        });
       return tempRes;
 
     },
