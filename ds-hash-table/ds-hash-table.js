@@ -9,7 +9,6 @@ var makeHashTable = function() {
       var index = hashFn(key, max);
       var tempRes;
       
-  console.log(container);
       if(container[index])
         _.each(container[index], function(elem){
           if(elem[key])
