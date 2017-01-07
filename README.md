@@ -86,7 +86,7 @@ Each assessment contains folders that correspond to the prompts listed below. Co
   * The stack should only have `.add` and `.remove`, no other properties or methods (you can test this by calling Object.keys() on your stack instance).
 
 ### Instantiation Patterns
-* [ ] Extend the native `Array` class to have these useful functions:
+* [ 1] Extend the native `Array` class to have these useful functions:
   * `.first` - Returns the first element of the array
   * `.last` - Returns the last element of the array
 

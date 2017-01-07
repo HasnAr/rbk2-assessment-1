@@ -23,7 +23,6 @@ var makeHashTable = function() {
       var index = hashFn(key, max);
       var temp = {};
       temp[key] = value;
-      console.log(this)
       this._storage.push(temp);
       if(!container[index])
         container[index]
